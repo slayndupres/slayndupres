@@ -22,5 +22,5 @@
 
 <img width ='40px' src ='https://www.vectorlogo.zone/logos/lua/lua-icon.svg'> <img width ='40px' src ='https://styles.redditmedia.com/t5_2rtqo/styles/communityIcon_ulg3emqamio21.png'>
  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
-<img width ='40px' src ='https://styles.redditmedia.com/t5_2rtqo/styles/communityIcon_ulg3emqamio21.png'>
+<img width ='40px' src ='https://logodix.com/logo/1625693.png'>
 
