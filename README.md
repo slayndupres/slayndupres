@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 <div align="center">
-<img width="" height = "" src="https://share.creavite.co/lxFs2wMeATwfQkgC.gif" alt="cover" />
+<img width="100px" height = "" src="https://share.creavite.co/cgZQWbFB7HNDStOO.png" />
 </div>
