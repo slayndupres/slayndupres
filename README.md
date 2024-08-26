@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-<img width="" height = "" src="https://share.creavite.co/BeYM5sStllBnrD77.png" />
+<img width="" height = "" src="https://github.com/slayndupres/slayndupres/blob/main/slayn.gif" />
 </div>
 
 <br>
